@@ -5,10 +5,18 @@
     font-weight: 300;
 }
 
-h2{
-    font-size: 5rem;
+body{
+    background-color: #F5F5F5 ;
+}
+
+.titulo{
     padding: 3rem;
+}
+
+.titulo h2{
+    font-size: 5rem;
     font-weight: 600;
+    text-align: center;
 }
 
 .coming-soon{
