@@ -1,4 +1,4 @@
-# Countdown-Website
+# Countdown Website
 
 This little website will help you to start a countdown to the desired date
 
