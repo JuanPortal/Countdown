@@ -35,6 +35,18 @@ h1 {
     font-weight: 600;
 }
 
+input {
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    outline: none;
+    font-size: 1.5rem;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(158, 156, 156);
+}
+
 h2{
     font-size: 5rem;
     font-weight: 400;
